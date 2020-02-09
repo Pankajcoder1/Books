@@ -1,2 +1,2 @@
 # books
-contain pdf of some good book.
+> This repository contain pdf of some book.
